@@ -1,15 +1,15 @@
 {
-    "name": "abc-gruntfile-helper",
-    "version": "0.0.1",
-    "description": "Helpers to easier the configuration of gruntfile for ABC",
-    "repository": "https://github.com/neekey/abc-gruntfile-helper",
-    "keywords": [
-        "abc gruntfile helper kissypie"
-    ],
-    "author": "neekey <ni184775761@gmail.com>",
-    "main": "./index.js",
-    "license": "BSD",
-    "dependencies": {
-        "underscore": "~1.4.*"
-    }
+  "name": "abc-gruntfile-helper",
+  "version": "0.0.1",
+  "description": "Helpers to easier the configuration of gruntfile for ABC",
+  "repository": "https://github.com/neekey/abc-gruntfile-helper",
+  "keywords": [
+    "abc gruntfile helper kissypie"
+  ],
+  "author": "neekey <ni184775761@gmail.com>",
+  "main": "./index.js",
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.4.4"
+  }
 }
