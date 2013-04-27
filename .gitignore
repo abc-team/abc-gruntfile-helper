@@ -2,3 +2,4 @@
 .idea
 *.ipr
 *.iws
+node_modules
