@@ -10,6 +10,6 @@
   "main": "./index.js",
   "license": "BSD",
   "dependencies": {
-    "underscore": "~1.4.4"
+    "underscore": "*"
   }
 }
