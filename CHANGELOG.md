@@ -1,3 +1,6 @@
+## v0.0.5
+- 为两种generator都添加上 检查更新的能力
+
 ## v0.0.4
 
 - 为kissycake添加watch common的能力
