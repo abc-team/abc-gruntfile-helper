@@ -1,3 +1,6 @@
+## v0.0.7
+- 去掉kissy-cake pages下面的版本号目录
+
 ## v0.0.6
 - kissyCake 打包的时候忽略.sass-cache这样类型的文件夹
 - 优化spawn同时开启线程太多的问题

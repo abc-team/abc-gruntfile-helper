@@ -1,6 +1,6 @@
 {
   "name": "abc-gruntfile-helper",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Helpers to easier the configuration of gruntfile for ABC",
   "repository": "https://github.com/neekey/abc-gruntfile-helper",
   "keywords": [
